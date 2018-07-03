@@ -1,0 +1,1 @@
+cmd_/home/krishna/Training/Training/Driver/file_kernel_rw.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/krishna/Training/Training/Driver/file_kernel_rw.ko /home/krishna/Training/Training/Driver/file_kernel_rw.o /home/krishna/Training/Training/Driver/file_kernel_rw.mod.o

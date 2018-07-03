@@ -1,0 +1,33 @@
+
+;; Function main (main, funcdef_no=0, decl_uid=1824, cgraph_uid=0)
+
+main ()
+{
+  volatile int x;
+  int D.1835;
+  int x.6;
+  int a.5;
+  int a.4;
+  int a.3;
+  int a.2;
+  int a.1;
+  int a.0;
+
+  a = 5;
+  a.0 = a;
+  a.1 = a.0;
+  a.2 = a.1 + 1;
+  a = a.2;
+  a.3 = a;
+  a.4 = a.3;
+  a.5 = a.4 + 1;
+  a = a.5;
+  x.6 = a.1 + a.4;
+  x = x.6;
+  D.1835 = 0;
+  goto <D.1836>;
+  <D.1836>:
+  return D.1835;
+}
+
+

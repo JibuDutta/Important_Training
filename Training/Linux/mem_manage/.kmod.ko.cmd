@@ -1,0 +1,1 @@
+cmd_/home/krishna/Training/Linux/mem_manage/kmod.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/krishna/Training/Linux/mem_manage/kmod.ko /home/krishna/Training/Linux/mem_manage/kmod.o /home/krishna/Training/Linux/mem_manage/kmod.mod.o

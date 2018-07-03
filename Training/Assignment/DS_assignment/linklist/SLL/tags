@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+STUDENT	SLL.c	/^}STUDENT;$/;"	t	typeref:struct:student	file:
+STUDENT	singlell.c	/^}STUDENT;$/;"	t	typeref:struct:student	file:
+delete	singlell.c	/^void delete(STUDENT **ptr)$/;"	f
+input	singlell.c	/^void input(STUDENT **ptr)$/;"	f
+insert_at_beginning	SLL.c	/^void insert_at_beginning(STUDENT **ptr)$/;"	f
+insert_at_end	SLL.c	/^void insert_at_end ( STUDENT **ptr)$/;"	f
+insert_at_position	SLL.c	/^void insert_at_position (STUDENT **ptr)$/;"	f
+insert_before_position	SLL.c	/^void insert_before_position ( STUDENT **ptr)$/;"	f
+main	SLL.c	/^int main(void)$/;"	f
+main	singlell.c	/^int main()$/;"	f
+next	SLL.c	/^	struct student *next;\/\/self refernce$/;"	m	struct:student	typeref:struct:student::student	file:
+next	singlell.c	/^	struct student *next;$/;"	m	struct:student	typeref:struct:student::student	file:
+print	SLL.c	/^void print(STUDENT *ptr)$/;"	f
+print	singlell.c	/^void print(STUDENT *ptr)$/;"	f
+printReverse	singlell.c	/^void printReverse(STUDENT  *head)$/;"	f
+reverse	singlell.c	/^void reverse (STUDENT **start)$/;"	f
+roll	SLL.c	/^	int roll;\/\/\/\/\/\/structure member$/;"	m	struct:student	file:
+roll	singlell.c	/^	int roll;$/;"	m	struct:student	file:
+student	SLL.c	/^typedef struct student$/;"	s	file:
+student	singlell.c	/^typedef struct student$/;"	s	file:

@@ -1,0 +1,25 @@
+#include<stdio.h>
+
+struct student
+{
+int roll;
+char name[20];
+float marks;
+
+}STUDENT;
+
+struct DOB
+{
+int date;
+int month;
+int year;
+
+
+}dob;
+
+int main()
+{
+printf("SIZEOF THE STRUCTURE: %d\n",sizeof(struct student));
+printf("SIZEOF THE STRUCTURE: %d\n",sizeof(struct dob));
+return 0;
+}

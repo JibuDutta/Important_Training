@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX	Queue/headers/headers.h	2;"	d
+MAX	stack/headers/headers.h	2;"	d
+STUDENT	singlell.c	/^}STUDENT;$/;"	t	typeref:struct:student	file:
+delete	singlell.c	/^void delete(STUDENT **ptr)$/;"	f
+dequeue	Queue/C_source/dequeue.c	/^void dequeue(void)$/;"	f
+display	Queue/C_source/display.c	/^void display(void)$/;"	f
+display	stack/c_source/display.c	/^void display()$/;"	f
+enqueue	Queue/C_source/enqueue.c	/^void enqueue(void)$/;"	f
+front	Queue/C_source/queue.c	/^int front=-1;$/;"	v
+input	singlell.c	/^void input(STUDENT **ptr)$/;"	f
+main	Queue/C_source/queue.c	/^int main()$/;"	f
+main	singlell.c	/^int main()$/;"	f
+main	stack/c_source/stack.c	/^int main()$/;"	f
+next	singlell.c	/^	struct student *next;$/;"	m	struct:student	typeref:struct:student::student	file:
+pop	stack/c_source/pop.c	/^void pop()$/;"	f
+print	singlell.c	/^void print(STUDENT *ptr)$/;"	f
+push	stack/c_source/push.c	/^void push(void)$/;"	f
+queue	Queue/C_source/queue.c	/^int queue[MAX];$/;"	v
+rear	Queue/C_source/queue.c	/^int rear=-1;$/;"	v
+roll	singlell.c	/^	int roll;$/;"	m	struct:student	file:
+stack	stack/c_source/stack.c	/^int stack[MAX];$/;"	v
+student	singlell.c	/^typedef struct student$/;"	s	file:
+top	stack/c_source/stack.c	/^int top=-1;$/;"	v

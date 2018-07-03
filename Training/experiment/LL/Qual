@@ -1,0 +1,73 @@
+
+
+----- Forwarded Message ----- From: Siddalingesh S. Koosalapur To: Ramasidda Gadadi , thanujvashan 
+Cc: B N Raghuram 
+Sent: Tue, 30 Jan 2018 18:00:20 +0530 (IST) 
+Subject: Re: Need access to source code of e-infochip 820 board 
+Here is the path for the source code, please copy to your local machine and start compiling.
+IP: 172.16.9.36
+path: # cd /data/e-infochip-820/ERAGON820_Android-N-BSP_Relv3.1/source/LA.UM.5.5.r1-04300-8x96.0_7.1.1_Nougat.zip 
+
+Thanks, Siddalingesh
+From: "Siddalingesh S. Koosalapur"
+To: "Ramasidda Gadadi" , "thanujvashan" 
+Cc: "B N Raghuram"
+Sent: Monday, January 22, 2018 5:01:41 PM 
+Subject: Fwd: Need access to source code of e-infochip 820 board
+
+Hi Ram, Thanij,
+
+Please download and compile the android source for 820 source from the below link and use the credentials as mentioned in the below mail thread. 
+
+Thanks, 
+Siddalingesh 
+
+From: "Siddalingesh S. Koosalapur" 
+To: "Shashank K R" 
+Cc: "Girish BR" , "B N Raghuram" 
+Sent: Friday, January 12, 2018 5:16:58 PM 
+Subject: Re: Need access to source code of e-infochip 820 board 
+
+Thanks Shashank, Girish. 
+Regards, Siddalingesh 
+From: "Shashank K R" 
+To: "Siddalingesh S. Koosalapur" 
+Cc: "Girish BR" , "B N Raghuram" 
+Sent: Friday, January 12, 2018 1:02:32 PM 
+Subject: Re: Need access to source code of e-infochip 820 board 
+
+Hi Siddalingesh, 
+
+SD820 linux code can be downloaded from the following link. http://supportcenter.einfochips.com/files 
+Login: girish.br@globaledgesoft.com 
+Password: P@ssw0rd 
+
+Regards, 
+Shashank 
+
+From: "Girish BR" To: "Siddalingesh S. Koosalapur" , "Shashank K R" 
+Cc: "B N Raghuram" 
+Sent: Friday, January 12, 2018 12:46:57 PM 
+Subject: RE: Need access to source code of e-infochip 820 board 
+
+Hi shashank, 
+
+please provide the link to linux code we downloaded for SD820. 
+
+Regards, Girish 
+
+From: Siddalingesh S. Koosalapur [mailto:ks.siddalingesh@globaledgesoft.com] 
+Sent: Friday, January 12, 2018 12:43 PM To: Girish BR 
+Cc: B N Raghuram 
+Subject: Re: Need access to source code of e-infochip 820 board 
+
+Hi Girish,
+
+please share the source code path link. 
+Thanks, Siddalingesh 
+
+From: "B N Raghuram" < bn.raghuram@globaledgesoft.com >
+To: "Girish BR" < girish.br@globaledgesoft.com > 
+Cc: "Siddalingesh S. Koosalapur" < ks.siddalingesh@globaledgesoft.com > 
+Sent: Wednesday, January 10, 2018 6:07:42 PM 
+Subject: Need access to source code of e-infochip 820 board 

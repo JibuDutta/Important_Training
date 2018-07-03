@@ -1,0 +1,13 @@
+
+;; Function main (null)
+;; enabled by -tree-original
+
+
+{
+  volatile int x = (int) a++  + (int) a++ ;
+
+  a = 5;
+    volatile int x = (int) a++  + (int) a++ ;
+  return 0;
+}
+
